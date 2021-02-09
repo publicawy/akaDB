@@ -1,2 +1,9 @@
- ## Hello
-# akaDB
+## Upload with terminal
+```bash
+git remote add origin https://github.com/publicawy/akaDB
+git remote -v
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/publicawy/akaDB
+git push origin master
+```
